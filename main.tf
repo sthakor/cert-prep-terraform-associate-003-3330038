@@ -17,3 +17,4 @@ resource "aws_instance" "ec2-Instance2" {
     Name = "demo-server2"
   }
 }
+
